@@ -2,6 +2,13 @@
 ## ✨ FrontEnd Developer, Interaction Designer, Planner
 ## 💬 Instagram : @dowan.kim_art
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowankim1024&layout=compact)
+
+#👑Who am I?
+- (주)가이버스 프론트엔드개발/기획/디자인 2023.10 ~ 2024.06
+- (주)바로아이티 프론트엔드개발 2025.01 ~ 2025.02
+- 부산대학교 (주)디자인앤테크놀로지전공 (부1)정보컴퓨터공학부 (부2)S/W 융합트랙
+- 2024 ARTECH Future Mobility Capstone Design 장려상
+- ADsP 데이터분석준전문가
 <!--
 **dowankim1024/dowankim1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
