@@ -1,7 +1,7 @@
 ## 🔭 PNU Design&Technology DowanKim
 ## ✨ FrontEnd Developer, Interaction Designer, Planner
 ## 💬 Instagram : @dowan.kim_art
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?dowankim1024=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dowankim1024&show_icons=true&theme=radical)
 <!--
 **dowankim1024/dowankim1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
