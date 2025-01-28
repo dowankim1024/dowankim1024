@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🔭 PNU Design&Technology DowanKim
+## ✨ FrontEnd Developer, Interaction Designer, Planner
+## 💬 Instagram : @dowan.kim_art
 
 <!--
 **dowankim1024/dowankim1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
