@@ -1,6 +1,6 @@
 ## 🔭 PNU Design&Technology DowanKim
 ## ✨ FrontEnd Developer, Interaction Designer, Planner
-## 💬 Instagram : @dowan.kim_art
+## 💬 Portfolio : https://dowankim1024.github.io/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowankim1024&layout=compact)
 
 👑 Who am I?
