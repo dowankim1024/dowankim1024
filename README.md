@@ -12,7 +12,7 @@
 - 부산대학교 (주)디자인앤테크놀로지전공 (부1)정보컴퓨터공학부 (부2)S/W 융합트랙
 - 2024 ARTECH Future Mobility Capstone Design 장려상
 - ADsP 데이터분석준전문가
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdowankim1024&count_bg=%2376FB11&title_bg=%23198BD7&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **dowankim1024/dowankim1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
