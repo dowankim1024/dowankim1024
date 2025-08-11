@@ -11,6 +11,8 @@
 - 9oormthon univ 2025. 03 ~
 - 부산대학교 (주)디자인앤테크놀로지전공 (부1)정보컴퓨터공학부 (부2)S/W 융합트랙
 - 2024 ARTECH Future Mobility Capstone Design 장려상
+- 2025 카카오테크캠퍼스 아이디어톤 우수상
+- 2025 PNU S/W 해커톤 우수상
 - ADsP 데이터분석준전문가
 
 <!--
