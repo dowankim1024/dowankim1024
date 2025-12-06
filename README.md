@@ -1,7 +1,7 @@
 ## 🔭 PNU Design&Technology DowanKim
 ## ✨ FrontEnd Developer, Interaction Designer
 ## 💬 Portfolio : https://dowankim.site
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dowankim1024&layout=compact)
+
 
 👑 Who am I?
 - (주)가이버스 프론트엔드개발/기획/디자인 2023.10 ~ 2024.06
