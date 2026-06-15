@@ -1,4 +1,5 @@
-## 🔭 PNU Design&Technology DowanKim
+## Dowan Kim
+## 🔭 PNU Design&Technology
 ### Minor : Computer Science Engineering, Software Convergence Track
 ## ✨ FrontEnd Developer, Interaction Designer
 ## 💬 Portfolio : https://dowankim.site
